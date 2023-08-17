@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Bumgu Kelly Kang',
   author: 'Bumgu Kelly Kang',
   headerTitle: 'Bumgu Kelly Kang',
-  description: `Bumgu's tech blog`,
+  description: `Bumgu's Tech Blog`,
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',

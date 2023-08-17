@@ -1,17 +1,16 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Kelly\'s homepage',
+    description: `My personal homepage that I first time to using Next.js, React.js,
+    and Tailwind CSS.
+    the Domain is myname`,
+    imgSrc: '/static/images/kelly-homepage.png',
+    href: 'https://bumgu.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: 'Lively',
+    description: `A Java Web Application with Spring.
+    this application provides location based traffic information. and neighbourhood community`,
     imgSrc: '/static/images/time-machine.jpg',
     href: '/blog/the-time-machine',
   },
